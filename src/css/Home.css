@@ -1,0 +1,24 @@
+.image-card {
+  width: 80px;
+  height: 150px;
+  /* display:inline-block; */
+}
+.image-container {
+  /* border: 1px solid red; */
+  padding: 5px;
+  margin: 2px;
+  /* border-radius: 10px; */
+  height: 150px;
+}
+.flex-container {
+  display: flex;
+  width: 100%;
+}
+.card-container {
+  margin: 5px;
+  width: 100%;
+  border: 1px solid blue;
+}
+.main-container {
+  /* border: 2px solid green; */
+}
